@@ -14,4 +14,4 @@ age = "19"
 print("Ich bin " + age + " Jahre Alt")
 city = "Düsseldorf"
 schule = ("Lore Lorentz")
-print("Mein name ist " + name + " Ich bin " + age + " Jahre Alt, wohne in " + city + " und besuche die " + schule)
+print("Mein name ist " + name + ". Ich bin " + age + " Jahre Alt, wohne in " + city + " und besuche die " + schule)
